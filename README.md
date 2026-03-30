@@ -6,6 +6,12 @@ A structured, automated mirror of aeronautical charts for the **NavData** Projec
 * **Automated Retrieval** Getting information about JPG, PNG, PDF from the AIP sites store them and manually move them on Github repository.
 * **Organized Structure** Files are categorized by ICAO prefix for easy API fetching.
 
+## Data Naming
+- `ICAO_INFO.pdf`: Technical Data
+- `ICAO_SID.pdf`: Departure Charts
+- `ICAO_STAR.pdf`: Arrival Charts
+- `ICAO_APPROACH.pdf`: IAC (Instrument Approach Charts) (ILS/RNAV)
+
 ## Quick Links 
 * [Disclaimer] (./DISCLAIMER.md)
 * [AIRAC Cycle Info] (https://www.eurocontrol.int)
